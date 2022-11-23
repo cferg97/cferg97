@@ -12,7 +12,7 @@ Lover of all things caffeinated.
 
 
 
-## Other Common Github Profile Sections
+## Other Information...
 👩‍💻 I'm currently working on Front End Development projects.
 
 
