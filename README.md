@@ -16,7 +16,7 @@ Lover of all things caffeinated.
 👩‍💻 I'm currently working on Front End Development projects.
 
 
-🧠 I'm currently learning React and JavaScript!
+🧠 I'm currently learning React and JavaScript! (and a little sprinkling of TypeScript)
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cferg97&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
