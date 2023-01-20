@@ -16,7 +16,7 @@ Lover of all things caffeinated.
 👩‍💻 I'm currently working with MongoDB and Rest APIs!
 
 
-🧠 I'm currently learning React and JavaScript! (and a little sprinkling of TypeScript)
+🧠 I'm currently learning MongoDB, Rest APIs and working with Mongoose and ExpressJs
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cferg97&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
