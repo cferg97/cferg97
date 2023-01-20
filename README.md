@@ -13,7 +13,7 @@ Lover of all things caffeinated.
 
 
 ## Other Information...
-👩‍💻 I'm currently working on Front End Development projects.
+👩‍💻 I'm currently working with MongoDB and Rest APIs!
 
 
 🧠 I'm currently learning React and JavaScript! (and a little sprinkling of TypeScript)
